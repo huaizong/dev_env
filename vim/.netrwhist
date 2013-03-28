@@ -1,0 +1,5 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =3
+let g:netrw_dirhist_1='/Users/whz/dev/data/postfix-2.10.0/examples/qmail-local'
+let g:netrw_dirhist_2='/Users/whz/dev/env_dev/mysql-5.6.10/cmake'
+let g:netrw_dirhist_3='/Users/whz/dev/data/google-styleguide/cpplint'
