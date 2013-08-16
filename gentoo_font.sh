@@ -1,0 +1,16 @@
+emerge media-fonts/arphicfonts
+emerge media-fonts/bitstream-cyberbit
+emerge media-fonts/droid
+emerge media-fonts/ipamonafont
+emerge media-fonts/ja-ipafonts
+emerge media-fonts/takao-fonts
+emerge media-fonts/wqy-microhei
+emerge media-fonts/wqy-zenhei
+emerge media-fonts/arphicfonts
+emerge media-fonts/bitstream-cyberbit
+emerge media-fonts/droid
+emerge media-fonts/ipamonafont
+emerge media-fonts/ja-ipafonts
+emerge media-fonts/takao-fonts
+emerge media-fonts/wqy-microhei
+emerge media-fonts/wqy-zenhei
